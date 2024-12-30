@@ -73,4 +73,4 @@ endmodule
 
 # RESULT:
 
-Designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming
+Designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming successfully
